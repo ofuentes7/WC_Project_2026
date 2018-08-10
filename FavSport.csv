@@ -1,0 +1,3389 @@
+Country,FavSport
+Venezuela,0
+French Guiana,0
+Guayana,0
+Panama,0
+Nicaragua,0
+United States,0
+Canada,0
+DR,0
+DP,0
+Jamaica,0
+Cuba,0
+Bahamas,0
+Trinidad and Tobago,0
+Barbados,0
+Grenada,0
+Antigua and Barbuda,0
+Finland,0
+Estonia,0
+Latvia,0
+Lithuania,0
+Ireland,0
+Western Sahara,0
+Australia,0
+New Zealand,0
+United Arab Emirates,0
+Japan,0
+Mongolia,0
+China,0
+Afghanistan,0
+Pakistan,0
+India,0
+Nepal,0
+Bhutan,0
+Bangladesh,0
+Laos,0
+Cambodia,0
+Philippines,0
+Taiwan,0
+Papua New Guinea,0
+Brazil,1
+Argentina,1
+Russian Federation,1
+Hungary,1
+England,1
+Serbia,1
+Uruguay,1
+Czech Republic,1
+Spain,1
+Sweden,1
+Algeria,1
+Germany,1
+France,1
+Austria,1
+Mexico,1
+North Korea,1
+Scotland,1
+Ghana,1
+Wales,1
+South Africa,1
+Italy,1
+Peru,1
+Bulgaria,1
+Turkey,1
+Netherlands,1
+South Korea,1
+Chile,1
+Portugal,1
+Denmark,1
+Iraq,1
+Paraguay,1
+Costa Rica,1
+Switzerland,1
+Morocco,1
+Poland,1
+Cote d'Ivoire,1
+Romania,1
+Israel,1
+Belgium,1
+Nigeria,1
+Zimbabwe,1
+Guinea,1
+Sudan,1
+Mauritius,1
+Democratic Republic of Congo,1
+Mali,1
+Albania,1
+Indonesia,1
+Congo,1
+Bolivia,1
+Norway,1
+Cameroon,1
+East Germany,1
+Netherlands Antilles,1
+Iran,1
+Togo,1
+Martinique,1
+Tunisia,1
+Haiti,1
+Dahomey,1
+Southern Rhodesia,1
+Guadeloupe,1
+Kenya,1
+Suriname,1
+Uganda,1
+Honduras,1
+El Salvador,1
+Greece,1
+New Caledonia,1
+Madagascar,1
+Ethiopia,1
+Tahiti,1
+Guatemala,1
+Hong Kong,1
+Libya,1
+Malta,1
+Aruba,1
+Central African Republic,1
+Vietnam,1
+Malaya,1
+Saudi Arabia,1
+Sierra Leone,1
+Syria,1
+Burkina Faso,1
+Gabon,1
+Colombia,1
+St. Vincent and the Grenadines,1
+Brazil,1
+Russian Federation,1
+Czech Republic,1
+Argentina,1
+Serbia,1
+Spain,1
+Hungary,1
+England,1
+Uruguay,1
+Austria,1
+Germany,1
+Sweden,1
+Algeria,1
+Scotland,1
+Italy,1
+Mexico,1
+North Korea,1
+Wales,1
+South Africa,1
+France,1
+Bulgaria,1
+Ghana,1
+Chile,1
+Switzerland,1
+Turkey,1
+Costa Rica,1
+Peru,1
+South Korea,1
+Netherlands,1
+Morocco,1
+Iraq,1
+Poland,1
+Denmark,1
+Cote d'Ivoire,1
+Romania,1
+Paraguay,1
+Belgium,1
+Portugal,1
+Nigeria,1
+Senegal,1
+Zimbabwe,1
+Guinea,1
+Israel,1
+Sudan,1
+Mauritius,1
+Congo,1
+Democratic Republic of Congo,1
+Mali,1
+El Salvador,1
+Albania,1
+Bolivia,1
+Dahomey,1
+Iran,1
+Netherlands Antilles,1
+Indonesia,1
+Togo,1
+Cameroon,1
+East Germany,1
+Tunisia,1
+Guadeloupe,1
+Martinique,1
+Southern Rhodesia,1
+Kenya,1
+Haiti,1
+New Caledonia,1
+Suriname,1
+Norway,1
+Greece,1
+Honduras,1
+Malaya,1
+Colombia,1
+Libya,1
+Vietnam,1
+Ethiopia,1
+Guatemala,1
+Madagascar,1
+Burkina Faso,1
+Malta,1
+Tahiti,1
+Hong Kong,1
+Aruba,1
+St. Vincent and the Grenadines,1
+Uganda,1
+Central African Republic,1
+Syria,1
+Sierra Leone,1
+Brazil,1
+Russian Federation,1
+Hungary,1
+Czech Republic,1
+Argentina,1
+England,1
+Germany,1
+Serbia,1
+Scotland,1
+Spain,1
+Italy,1
+Sweden,1
+Algeria,1
+Uruguay,1
+Mexico,1
+Austria,1
+Chile,1
+North Korea,1
+Ghana,1
+South Africa,1
+France,1
+Wales,1
+Bulgaria,1
+Turkey,1
+Costa Rica,1
+Denmark,1
+South Korea,1
+Iraq,1
+Romania,1
+Peru,1
+Netherlands,1
+Morocco,1
+Egypt,1
+Belgium,1
+Cote d'Ivoire,1
+Portugal,1
+Poland,1
+Nigeria,1
+Paraguay,1
+Switzerland,1
+East Germany,1
+Senegal,1
+Zimbabwe,1
+Congo,1
+Bolivia,1
+Sudan,1
+Mauritius,1
+Israel,1
+Guinea,1
+Democratic Republic of Congo,1
+El Salvador,1
+Albania,1
+Mali,1
+Dahomey,1
+Netherlands Antilles,1
+Norway,1
+Togo,1
+Guadeloupe,1
+Iran,1
+Ethiopia,1
+Cameroon,1
+Haiti,1
+Southern Rhodesia,1
+Indonesia,1
+Tunisia,1
+Martinique,1
+Suriname,1
+Libya,1
+Colombia,1
+Greece,1
+Honduras,1
+Vietnam,1
+Malaya,1
+New Caledonia,1
+Kenya,1
+Burkina Faso,1
+Guatemala,1
+Tahiti,1
+Aruba,1
+Hong Kong,1
+St. Vincent and the Grenadines,1
+Central African Republic,1
+Syria,1
+Sierra Leone,1
+Madagascar,1
+Malta,1
+Russian Federation,1
+Hungary,1
+England,1
+Brazil,1
+Argentina,1
+Germany,1
+Serbia,1
+Italy,1
+Scotland,1
+Sweden,1
+Czech Republic,1
+Uruguay,1
+Algeria,1
+Spain,1
+Ghana,1
+Chile,1
+North Korea,1
+Mexico,1
+Austria,1
+South Africa,1
+Egypt,1
+France,1
+Costa Rica,1
+Paraguay,1
+Bulgaria,1
+Wales,1
+Romania,1
+Belgium,1
+Bolivia,1
+Turkey,1
+Denmark,1
+Portugal,1
+Morocco,1
+Poland,1
+Sudan,1
+Iraq,1
+South Korea,1
+East Germany,1
+Peru,1
+Netherlands,1
+Cote d'Ivoire,1
+Guinea,1
+Congo,1
+Tunisia,1
+Ethiopia,1
+Israel,1
+Senegal,1
+Switzerland,1
+Zimbabwe,1
+Democratic Republic of Congo,1
+Netherlands Antilles,1
+Nigeria,1
+Iran,1
+Mali,1
+Albania,1
+Mauritius,1
+Guadeloupe,1
+El Salvador,1
+Dahomey,1
+Togo,1
+Haiti,1
+Norway,1
+Suriname,1
+Southern Rhodesia,1
+New Caledonia,1
+Cameroon,1
+Libya,1
+Indonesia,1
+Greece,1
+Martinique,1
+Hong Kong,1
+Madagascar,1
+Colombia,1
+Honduras,1
+Tahiti,1
+Guatemala,1
+Aruba,1
+Syria,1
+Gabon,1
+Kenya,1
+St. Vincent and the Grenadines,1
+Vietnam,1
+Central African Republic,1
+Luxembourg,1
+Sierra Leone,1
+Russian Federation,1
+Argentina,1
+Hungary,1
+Brazil,1
+Spain,1
+England,1
+Italy,1
+Romania,1
+Scotland,1
+Germany,1
+Egypt,1
+Czech Republic,1
+Algeria,1
+Sweden,1
+Uruguay,1
+Serbia,1
+Austria,1
+Chile,1
+Mexico,1
+North Korea,1
+Paraguay,1
+South Africa,1
+Costa Rica,1
+France,1
+Ghana,1
+Belgium,1
+Bulgaria,1
+Bolivia,1
+Turkey,1
+Poland,1
+Portugal,1
+Morocco,1
+Netherlands,1
+Wales,1
+East Germany,1
+Peru,1
+Iraq,1
+Sudan,1
+Guinea,1
+Denmark,1
+Cote d'Ivoire,1
+Israel,1
+Iran,1
+Tunisia,1
+Switzerland,1
+Senegal,1
+Democratic Republic of Congo,1
+South Korea,1
+Curacao,1
+Greece,1
+Mali,1
+Togo,1
+Mauritius,1
+Congo,1
+Ethiopia,1
+Zambia,1
+Guadeloupe,1
+El Salvador,1
+Norway,1
+Nigeria,1
+Dahomey,1
+Albania,1
+Cameroon,1
+Haiti,1
+Southern Rhodesia,1
+New Caledonia,1
+Suriname,1
+Indonesia,1
+Libya,1
+Martinique,1
+Madagascar,1
+Colombia,1
+Honduras,1
+Tahiti,1
+Vietnam,1
+Guatemala,1
+Aruba,1
+Syria,1
+Gabon,1
+Hong Kong,1
+Burkina Faso,1
+Central African Republic,1
+St. Vincent and the Grenadines,1
+Bermuda,1
+Uganda,1
+Brazil,1
+Argentina,1
+Russian Federation,1
+Hungary,1
+England,1
+Italy,1
+Germany,1
+Czech Republic,1
+Spain,1
+Mexico,1
+Romania,1
+Scotland,1
+Egypt,1
+Uruguay,1
+Ghana,1
+North Korea,1
+Sweden,1
+Serbia,1
+South Africa,1
+Bulgaria,1
+Paraguay,1
+Portugal,1
+Chile,1
+France,1
+Austria,1
+Wales,1
+Belgium,1
+Algeria,1
+Costa Rica,1
+East Germany,1
+Bolivia,1
+Cote d'Ivoire,1
+Poland,1
+Sudan,1
+Morocco,1
+Netherlands,1
+Switzerland,1
+Turkey,1
+Senegal,1
+Peru,1
+Tunisia,1
+Denmark,1
+Mali,1
+Iraq,1
+Iran,1
+Democratic Republic of Congo,1
+Guinea,1
+South Korea,1
+Norway,1
+El Salvador,1
+Congo,1
+Mauritius,1
+Greece,1
+Israel,1
+Guadeloupe,1
+Libya,1
+Nigeria,1
+Zambia,1
+Guatemala,1
+New Caledonia,1
+Togo,1
+Ethiopia,1
+Cameroon,1
+Dahomey,1
+Suriname,1
+Southern Rhodesia,1
+Martinique,1
+Albania,1
+Netherlands Antilles,1
+Indonesia,1
+Colombia,1
+Ecuador,1
+Kenya,1
+Vietnam,1
+Myanmar,1
+Tahiti,1
+Haiti,1
+Aruba,1
+Gabon,1
+St. Vincent and the Grenadines,1
+Sierra Leone,1
+Central African Republic,1
+Malta,1
+Syria,1
+England,1
+Germany,1
+Portugal,1
+Argentina,1
+Russian Federation,1
+Hungary,1
+Italy,1
+Brazil,1
+Czech Republic,1
+Ghana,1
+Spain,1
+Romania,1
+Uruguay,1
+Mexico,1
+North Korea,1
+Egypt,1
+Sweden,1
+Scotland,1
+East Germany,1
+South Africa,1
+Serbia,1
+Belgium,1
+Paraguay,1
+Bulgaria,1
+Costa Rica,1
+Austria,1
+Algeria,1
+France,1
+Chile,1
+Bolivia,1
+Cote d'Ivoire,1
+Netherlands,1
+Wales,1
+Morocco,1
+Poland,1
+Sudan,1
+Turkey,1
+Iraq,1
+Peru,1
+Senegal,1
+Guinea,1
+Switzerland,1
+Democratic Republic of Congo,1
+Mali,1
+Tunisia,1
+Iran,1
+Congo,1
+Denmark,1
+Myanmar,1
+Mauritius,1
+Greece,1
+Norway,1
+Zambia,1
+Suriname,1
+Nigeria,1
+Israel,1
+Netherlands Antilles,1
+Ethiopia,1
+Libya,1
+Guatemala,1
+Cameroon,1
+Southern Rhodesia,1
+Togo,1
+El Salvador,1
+South Korea,1
+Tahiti,1
+Kenya,1
+New Caledonia,1
+Martinique,1
+Dahomey,1
+Indonesia,1
+Albania,1
+Guadeloupe,1
+Haiti,1
+St. Vincent and the Grenadines,1
+Colombia,1
+Ecuador,1
+Syria,1
+Vietnam,1
+Aruba,1
+Malta,1
+Gabon,1
+Burkina Faso,1
+Bermuda,1
+England,1
+Germany,1
+Russian Federation,1
+Hungary,1
+Italy,1
+Portugal,1
+Argentina,1
+Brazil,1
+Uruguay,1
+Czech Republic,1
+East Germany,1
+Spain,1
+Bulgaria,1
+North Korea,1
+Scotland,1
+Serbia,1
+Mexico,1
+Egypt,1
+Algeria,1
+South Africa,1
+Romania,1
+Chile,1
+France,1
+Ghana,1
+Paraguay,1
+Cote d'Ivoire,1
+Sweden,1
+Belgium,1
+Austria,1
+Costa Rica,1
+Netherlands,1
+Switzerland,1
+Poland,1
+Turkey,1
+Democratic Republic of Congo,1
+Wales,1
+Morocco,1
+Iraq,1
+Senegal,1
+Denmark,1
+Sudan,1
+Myanmar,1
+South Korea,1
+Guatemala,1
+Peru,1
+Congo,1
+Greece,1
+Bolivia,1
+Tunisia,1
+Mali,1
+Zambia,1
+Iran,1
+Guinea,1
+Ethiopia,1
+Norway,1
+Suriname,1
+Nigeria,1
+Israel,1
+Mauritius,1
+Cameroon,1
+New Caledonia,1
+El Salvador,1
+Dahomey,1
+Martinique,1
+Tahiti,1
+Libya,1
+Vietnam,1
+Zimbabwe,1
+Albania,1
+Netherlands Antilles,1
+Haiti,1
+Togo,1
+Colombia,1
+Ecuador,1
+St. Vincent and the Grenadines,1
+Guadeloupe,1
+Indonesia,1
+Bermuda,1
+Kenya,1
+Syria,1
+Aruba,1
+Malta,1
+Madagascar,1
+Honduras,1
+Gabon,1
+Lebanon,1
+England,1
+Germany,1
+Brazil,1
+Italy,1
+Hungary,1
+Russian Federation,1
+Czech Republic,1
+Portugal,1
+Argentina,1
+Bulgaria,1
+Spain,1
+East Germany,1
+Mexico,1
+Scotland,1
+Uruguay,1
+North Korea,1
+Serbia,1
+Chile,1
+Belgium,1
+South Africa,1
+Romania,1
+Egypt,1
+Democratic Republic of Congo,1
+Sweden,1
+Paraguay,1
+Cote d'Ivoire,1
+Poland,1
+Morocco,1
+Wales,1
+France,1
+Netherlands,1
+Austria,1
+Ghana,1
+Switzerland,1
+Costa Rica,1
+Greece,1
+Israel,1
+Algeria,1
+Iran,1
+Denmark,1
+Senegal,1
+Sudan,1
+Peru,1
+Zambia,1
+Guinea,1
+Tunisia,1
+Turkey,1
+Iraq,1
+Bolivia,1
+Nigeria,1
+Mali,1
+Guatemala,1
+South Korea,1
+Norway,1
+El Salvador,1
+Indonesia,1
+Ethiopia,1
+Suriname,1
+Congo,1
+Myanmar,1
+New Caledonia,1
+Cameroon,1
+Mauritius,1
+Tahiti,1
+Libya,1
+Zimbabwe,1
+Dahomey,1
+Haiti,1
+Albania,1
+Guadeloupe,1
+Martinique,1
+Honduras,1
+Togo,1
+Ecuador,1
+Netherlands Antilles,1
+Colombia,1
+St. Vincent and the Grenadines,1
+Vietnam,1
+Syria,1
+Aruba,1
+Kenya,1
+Malta,1
+Burkina Faso,1
+Madagascar,1
+Gabon,1
+Sierra Leone,1
+Lebanon,1
+England,1
+Brazil,1
+Germany,1
+Italy,1
+Russian Federation,1
+Czech Republic,1
+Hungary,1
+East Germany,1
+Uruguay,1
+North Korea,1
+Serbia,1
+Bulgaria,1
+Sweden,1
+Argentina,1
+Portugal,1
+Scotland,1
+Spain,1
+Romania,1
+Democratic Republic of Congo,1
+South Africa,1
+Poland,1
+Belgium,1
+Chile,1
+Egypt,1
+Cote d'Ivoire,1
+France,1
+Austria,1
+Paraguay,1
+Greece,1
+Peru,1
+Netherlands,1
+Costa Rica,1
+Morocco,1
+Israel,1
+Mexico,1
+Ghana,1
+Denmark,1
+Switzerland,1
+Wales,1
+Algeria,1
+Iran,1
+Nigeria,1
+Guatemala,1
+Guinea,1
+Bolivia,1
+Sudan,1
+Turkey,1
+South Korea,1
+Tunisia,1
+Senegal,1
+Mali,1
+Zambia,1
+Indonesia,1
+Congo,1
+El Salvador,1
+Suriname,1
+Norway,1
+New Caledonia,1
+Iraq,1
+Cameroon,1
+Haiti,1
+Ethiopia,1
+Myanmar,1
+Mauritius,1
+Tahiti,1
+Libya,1
+Netherlands Antilles,1
+Dahomey,1
+Martinique,1
+Albania,1
+Guadeloupe,1
+Zimbabwe,1
+Ecuador,1
+St. Vincent and the Grenadines,1
+Honduras,1
+Togo,1
+Colombia,1
+Syria,1
+Aruba,1
+Uganda,1
+Madagascar,1
+Malta,1
+Burkina Faso,1
+Sierra Leone,1
+Gabon,1
+Lebanon,1
+Bermuda,1
+Central African Republic,1
+Brazil,1
+England,1
+Germany,1
+Italy,1
+Russian Federation,1
+Hungary,1
+East Germany,1
+Uruguay,1
+Spain,1
+Serbia,1
+Sweden,1
+Argentina,1
+Scotland,1
+Portugal,1
+Czech Republic,1
+North Korea,1
+Poland,1
+Romania,1
+Egypt,1
+South Africa,1
+France,1
+Chile,1
+Peru,1
+Belgium,1
+Paraguay,1
+Democratic Republic of Congo,1
+Netherlands,1
+Mexico,1
+Bulgaria,1
+Austria,1
+Ghana,1
+Sudan,1
+Costa Rica,1
+Wales,1
+Switzerland,1
+Cote d'Ivoire,1
+Israel,1
+Morocco,1
+Guinea,1
+South Korea,1
+Greece,1
+Turkey,1
+Guatemala,1
+Bolivia,1
+Algeria,1
+Mali,1
+Nigeria,1
+Iran,1
+Tunisia,1
+Myanmar,1
+Denmark,1
+Congo,1
+Suriname,1
+Cameroon,1
+Zambia,1
+Norway,1
+Iraq,1
+New Caledonia,1
+Senegal,1
+Haiti,1
+El Salvador,1
+Tahiti,1
+Libya,1
+Mauritius,1
+Togo,1
+Martinique,1
+Guadeloupe,1
+Zimbabwe,1
+Dahomey,1
+Ecuador,1
+Albania,1
+Honduras,1
+St. Vincent and the Grenadines,1
+Colombia,1
+Indonesia,1
+Uganda,1
+Syria,1
+Netherlands Antilles,1
+Aruba,1
+Madagascar,1
+Malta,1
+Sierra Leone,1
+Burkina Faso,1
+Ethiopia,1
+Bermuda,1
+Lebanon,1
+Brazil,1
+Germany,1
+England,1
+Italy,1
+Russian Federation,1
+Hungary,1
+East Germany,1
+Argentina,1
+Serbia,1
+Spain,1
+Czech Republic,1
+Sweden,1
+Romania,1
+Uruguay,1
+Belgium,1
+Portugal,1
+Austria,1
+Poland,1
+South Africa,1
+Bulgaria,1
+France,1
+North Korea,1
+Mexico,1
+Chile,1
+Netherlands,1
+Paraguay,1
+Scotland,1
+Peru,1
+Democratic Republic of Congo,1
+Switzerland,1
+Morocco,1
+Ghana,1
+Sudan,1
+Egypt,1
+Israel,1
+Wales,1
+Myanmar,1
+Cote d'Ivoire,1
+Mali,1
+Tunisia,1
+Costa Rica,1
+Denmark,1
+Greece,1
+Iran,1
+Bolivia,1
+Guinea,1
+South Korea,1
+Turkey,1
+Algeria,1
+Haiti,1
+Iraq,1
+Senegal,1
+Cameroon,1
+Congo,1
+Nigeria,1
+Suriname,1
+Guatemala,1
+New Caledonia,1
+Togo,1
+El Salvador,1
+Libya,1
+Zambia,1
+Albania,1
+Norway,1
+Martinique,1
+Zimbabwe,1
+Ethiopia,1
+Dahomey,1
+Ecuador,1
+Guadeloupe,1
+Madagascar,1
+Malaysia,1
+Tahiti,1
+Mauritius,1
+St. Vincent and the Grenadines,1
+Colombia,1
+Aruba,1
+Indonesia,1
+Netherlands Antilles,1
+Sierra Leone,1
+Honduras,1
+Malta,1
+Burkina Faso,1
+Bermuda,1
+Syria,1
+Uganda,1
+Germany,1
+Brazil,1
+England,1
+Poland,1
+Italy,1
+Hungary,1
+Russian Federation,1
+Serbia,1
+Portugal,1
+Argentina,1
+East Germany,1
+Spain,1
+Belgium,1
+Scotland,1
+Sweden,1
+Czech Republic,1
+Austria,1
+Mexico,1
+Netherlands,1
+Bulgaria,1
+Romania,1
+France,1
+Paraguay,1
+South Africa,1
+Uruguay,1
+North Korea,1
+Switzerland,1
+Chile,1
+Egypt,1
+Israel,1
+Peru,1
+Myanmar,1
+Democratic Republic of Congo,1
+Denmark,1
+Morocco,1
+Ghana,1
+Guinea,1
+Tunisia,1
+Congo,1
+Wales,1
+Cote d'Ivoire,1
+Cameroon,1
+Nigeria,1
+Greece,1
+Haiti,1
+Costa Rica,1
+Guatemala,1
+Algeria,1
+Iran,1
+Suriname,1
+Bolivia,1
+Senegal,1
+South Korea,1
+Turkey,1
+Sudan,1
+Iraq,1
+New Caledonia,1
+Mali,1
+Ethiopia,1
+Zambia,1
+El Salvador,1
+Libya,1
+Albania,1
+Zimbabwe,1
+Togo,1
+Norway,1
+Guadeloupe,1
+Martinique,1
+Ecuador,1
+Honduras,1
+Tahiti,1
+St. Vincent and the Grenadines,1
+Malaysia,1
+Indonesia,1
+Kenya,1
+Aruba,1
+Colombia,1
+Dahomey,1
+Uganda,1
+Syria,1
+Burkina Faso,1
+Central African Republic,1
+Madagascar,1
+Netherlands Antilles,1
+Sierra Leone,1
+Tanzania,1
+Brazil,1
+Germany,1
+Italy,1
+England,1
+Poland,1
+Serbia,1
+East Germany,1
+Hungary,1
+Argentina,1
+Russian Federation,1
+Spain,1
+Sweden,1
+Belgium,1
+Portugal,1
+Czech Republic,1
+Netherlands,1
+Bulgaria,1
+Romania,1
+Austria,1
+Scotland,1
+Chile,1
+South Africa,1
+Paraguay,1
+France,1
+Uruguay,1
+Democratic Republic of Congo,1
+Mexico,1
+Tunisia,1
+Israel,1
+Switzerland,1
+Peru,1
+Turkey,1
+Guinea,1
+Denmark,1
+Morocco,1
+Nigeria,1
+Cote d'Ivoire,1
+Wales,1
+Egypt,1
+South Korea,1
+North Korea,1
+Cameroon,1
+Haiti,1
+Iran,1
+Costa Rica,1
+Algeria,1
+Congo,1
+Ghana,1
+Greece,1
+Iraq,1
+Suriname,1
+Senegal,1
+Myanmar,1
+Mali,1
+Sudan,1
+Zambia,1
+Bolivia,1
+Guatemala,1
+New Caledonia,1
+Uganda,1
+Malaysia,1
+Syria,1
+El Salvador,1
+Colombia,1
+Honduras,1
+Norway,1
+Tahiti,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Albania,1
+Togo,1
+Ecuador,1
+Libya,1
+Martinique,1
+Central African Republic,1
+Ethiopia,1
+Guadeloupe,1
+Aruba,1
+Dahomey,1
+Indonesia,1
+Madagascar,1
+Kuwait,1
+Tanzania,1
+Malta,1
+Sierra Leone,1
+Germany,1
+Netherlands,1
+Brazil,1
+Poland,1
+England,1
+Italy,1
+Spain,1
+Serbia,1
+Belgium,1
+East Germany,1
+Scotland,1
+Czech Republic,1
+Hungary,1
+Portugal,1
+Argentina,1
+Austria,1
+Russian Federation,1
+Sweden,1
+Romania,1
+France,1
+South Africa,1
+Chile,1
+Paraguay,1
+Mexico,1
+Bulgaria,1
+Morocco,1
+Israel,1
+Democratic Republic of Congo,1
+Uruguay,1
+Switzerland,1
+Wales,1
+Peru,1
+Iran,1
+Egypt,1
+Turkey,1
+Tunisia,1
+Guinea,1
+Nigeria,1
+Greece,1
+Denmark,1
+North Korea,1
+Cameroon,1
+Ghana,1
+Costa Rica,1
+Iraq,1
+Zambia,1
+Congo,1
+Mali,1
+Senegal,1
+Syria,1
+Haiti,1
+Cote d'Ivoire,1
+Myanmar,1
+Suriname,1
+Algeria,1
+South Korea,1
+Bolivia,1
+Guatemala,1
+Sudan,1
+Kuwait,1
+New Caledonia,1
+Colombia,1
+El Salvador,1
+Honduras,1
+Norway,1
+St. Vincent and the Grenadines,1
+Uganda,1
+Zimbabwe,1
+Albania,1
+Tahiti,1
+Guadeloupe,1
+Ecuador,1
+Malaysia,1
+Togo,1
+Libya,1
+Martinique,1
+Central African Republic,1
+Dahomey,1
+Ethiopia,1
+Aruba,1
+Madagascar,1
+Tanzania,1
+Indonesia,1
+Malta,1
+Sierra Leone,1
+Hong Kong,1
+Germany,1
+Netherlands,1
+Poland,1
+Brazil,1
+England,1
+Serbia,1
+Italy,1
+Spain,1
+Czech Republic,1
+East Germany,1
+Scotland,1
+Belgium,1
+Argentina,1
+Russian Federation,1
+Romania,1
+Portugal,1
+Hungary,1
+Sweden,1
+Austria,1
+Bulgaria,1
+South Africa,1
+Peru,1
+France,1
+Mexico,1
+Wales,1
+Morocco,1
+Israel,1
+Egypt,1
+Uruguay,1
+Democratic Republic of Congo,1
+Paraguay,1
+Chile,1
+Ghana,1
+Iran,1
+Turkey,1
+Switzerland,1
+Guinea,1
+Nigeria,1
+North Korea,1
+South Korea,1
+Greece,1
+Colombia,1
+Tunisia,1
+Senegal,1
+Cameroon,1
+Denmark,1
+Costa Rica,1
+Mali,1
+Iraq,1
+Algeria,1
+Sudan,1
+Guatemala,1
+Kuwait,1
+Congo,1
+New Caledonia,1
+Suriname,1
+Haiti,1
+Zambia,1
+Cote d'Ivoire,1
+Myanmar,1
+Bolivia,1
+Togo,1
+Uganda,1
+Syria,1
+Tahiti,1
+El Salvador,1
+Norway,1
+St. Vincent and the Grenadines,1
+Martinique,1
+Zimbabwe,1
+Albania,1
+Honduras,1
+Guadeloupe,1
+Central African Republic,1
+Dahomey,1
+Malaysia,1
+Ecuador,1
+Aruba,1
+Libya,1
+Madagascar,1
+Kenya,1
+Malta,1
+Ethiopia,1
+Tanzania,1
+Indonesia,1
+Sierra Leone,1
+Hong Kong,1
+Germany,1
+Brazil,1
+Netherlands,1
+Czech Republic,1
+East Germany,1
+Italy,1
+England,1
+Poland,1
+Scotland,1
+Argentina,1
+Spain,1
+Hungary,1
+Russian Federation,1
+Belgium,1
+Serbia,1
+Romania,1
+Portugal,1
+Austria,1
+Sweden,1
+France,1
+South Africa,1
+Bulgaria,1
+Peru,1
+Israel,1
+Guinea,1
+Wales,1
+Morocco,1
+Iran,1
+Nigeria,1
+Mexico,1
+Paraguay,1
+Ghana,1
+Turkey,1
+Uruguay,1
+Chile,1
+Tunisia,1
+Egypt,1
+Denmark,1
+Democratic Republic of Congo,1
+South Korea,1
+Greece,1
+Kuwait,1
+North Korea,1
+Colombia,1
+Switzerland,1
+Cameroon,1
+Congo,1
+Mali,1
+Guatemala,1
+Haiti,1
+Senegal,1
+Costa Rica,1
+Algeria,1
+Sudan,1
+Zambia,1
+New Caledonia,1
+Togo,1
+Malaysia,1
+Cote d'Ivoire,1
+Iraq,1
+Uganda,1
+Bolivia,1
+El Salvador,1
+Angola,1
+Norway,1
+Myanmar,1
+Suriname,1
+Tahiti,1
+Martinique,1
+Albania,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Honduras,1
+Dahomey,1
+Ecuador,1
+Guadeloupe,1
+Aruba,1
+Syria,1
+Ethiopia,1
+Madagascar,1
+Libya,1
+Central African Republic,1
+Gabon,1
+Hong Kong,1
+Tanzania,1
+Iceland,1
+Kenya,1
+Germany,1
+Netherlands,1
+Brazil,1
+Scotland,1
+East Germany,1
+Italy,1
+Spain,1
+England,1
+Hungary,1
+Poland,1
+Czech Republic,1
+Russian Federation,1
+Argentina,1
+Austria,1
+Portugal,1
+France,1
+Romania,1
+Serbia,1
+Belgium,1
+Wales,1
+Mexico,1
+South Africa,1
+Peru,1
+Iran,1
+Sweden,1
+Bulgaria,1
+Guinea,1
+Paraguay,1
+South Korea,1
+Tunisia,1
+Israel,1
+Ghana,1
+Nigeria,1
+Kuwait,1
+Egypt,1
+Morocco,1
+Uruguay,1
+Turkey,1
+Chile,1
+Democratic Republic of Congo,1
+Greece,1
+Denmark,1
+North Korea,1
+Switzerland,1
+Haiti,1
+Senegal,1
+Mali,1
+Cote d'Ivoire,1
+Congo,1
+Colombia,1
+Iraq,1
+Costa Rica,1
+Cameroon,1
+Sudan,1
+Algeria,1
+Zambia,1
+Guatemala,1
+Bolivia,1
+Malaysia,1
+Angola,1
+El Salvador,1
+New Caledonia,1
+Uganda,1
+Norway,1
+Tahiti,1
+Albania,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Honduras,1
+Myanmar,1
+Martinique,1
+Ecuador,1
+Togo,1
+Guadeloupe,1
+Aruba,1
+Ethiopia,1
+Suriname,1
+Iceland,1
+Madagascar,1
+Gabon,1
+Malawi,1
+Hong Kong,1
+Central African Republic,1
+Tanzania,1
+Syria,1
+Libya,1
+Brazil,1
+Netherlands,1
+Argentina,1
+Germany,1
+England,1
+Italy,1
+Spain,1
+East Germany,1
+Poland,1
+Czech Republic,1
+Russian Federation,1
+Austria,1
+France,1
+Portugal,1
+Scotland,1
+Romania,1
+South Korea,1
+Wales,1
+Serbia,1
+Peru,1
+Belgium,1
+Hungary,1
+South Africa,1
+Guinea,1
+Sweden,1
+Tunisia,1
+Paraguay,1
+Iran,1
+Israel,1
+Mexico,1
+Bulgaria,1
+Ghana,1
+Greece,1
+Egypt,1
+Uruguay,1
+North Korea,1
+Nigeria,1
+Chile,1
+Democratic Republic of Congo,1
+Denmark,1
+Turkey,1
+Kuwait,1
+Iraq,1
+Morocco,1
+Algeria,1
+Switzerland,1
+Senegal,1
+Cote d'Ivoire,1
+Zambia,1
+Colombia,1
+Costa Rica,1
+Mali,1
+Cameroon,1
+Sudan,1
+Guatemala,1
+Suriname,1
+Bolivia,1
+Haiti,1
+Angola,1
+Congo,1
+New Caledonia,1
+Uganda,1
+El Salvador,1
+Tahiti,1
+Norway,1
+Albania,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Malawi,1
+Guadeloupe,1
+Honduras,1
+Malaysia,1
+Ecuador,1
+Togo,1
+Martinique,1
+Libya,1
+Myanmar,1
+Aruba,1
+Ethiopia,1
+Iceland,1
+Madagascar,1
+Central African Republic,1
+Gabon,1
+Tanzania,1
+Hong Kong,1
+Bermuda,1
+Germany,1
+Brazil,1
+England,1
+Netherlands,1
+Italy,1
+Poland,1
+Argentina,1
+Austria,1
+Czech Republic,1
+France,1
+East Germany,1
+Belgium,1
+Serbia,1
+Spain,1
+Russian Federation,1
+Portugal,1
+South Korea,1
+Wales,1
+Romania,1
+Hungary,1
+Scotland,1
+Paraguay,1
+South Africa,1
+Peru,1
+Iran,1
+Israel,1
+Greece,1
+Mexico,1
+Chile,1
+North Korea,1
+Bulgaria,1
+Iraq,1
+Sweden,1
+Nigeria,1
+Tunisia,1
+Turkey,1
+Algeria,1
+Ghana,1
+Denmark,1
+Uruguay,1
+Democratic Republic of Congo,1
+Bolivia,1
+Guinea,1
+Haiti,1
+Egypt,1
+Kuwait,1
+Costa Rica,1
+Senegal,1
+Switzerland,1
+Colombia,1
+Congo,1
+Cameroon,1
+Mali,1
+Suriname,1
+Zambia,1
+Malawi,1
+Morocco,1
+Guatemala,1
+Cote d'Ivoire,1
+Tahiti,1
+St. Vincent and the Grenadines,1
+El Salvador,1
+Togo,1
+Norway,1
+Angola,1
+Ecuador,1
+Libya,1
+Albania,1
+Zimbabwe,1
+Honduras,1
+Martinique,1
+Sudan,1
+Malaysia,1
+Tanzania,1
+Madagascar,1
+Kenya,1
+Uganda,1
+Aruba,1
+Guadeloupe,1
+Hong Kong,1
+New Caledonia,1
+Sierra Leone,1
+Central African Republic,1
+Ethiopia,1
+Saudi Arabia,1
+Gabon,1
+Iceland,1
+Germany,1
+Brazil,1
+Italy,1
+Argentina,1
+England,1
+Russian Federation,1
+Belgium,1
+Poland,1
+East Germany,1
+Austria,1
+France,1
+Netherlands,1
+Czech Republic,1
+Serbia,1
+Wales,1
+Spain,1
+Portugal,1
+Romania,1
+Scotland,1
+Paraguay,1
+Hungary,1
+South Africa,1
+Iran,1
+Uruguay,1
+Peru,1
+South Korea,1
+Iraq,1
+Chile,1
+Greece,1
+Nigeria,1
+Israel,1
+Algeria,1
+Mexico,1
+Tunisia,1
+Bulgaria,1
+Ghana,1
+Denmark,1
+Sweden,1
+Morocco,1
+Democratic Republic of Congo,1
+North Korea,1
+Egypt,1
+Turkey,1
+Senegal,1
+Cameroon,1
+Bolivia,1
+Kuwait,1
+Colombia,1
+Switzerland,1
+Honduras,1
+Congo,1
+Norway,1
+Guinea,1
+Suriname,1
+Libya,1
+Cote d'Ivoire,1
+El Salvador,1
+Haiti,1
+Tahiti,1
+Mali,1
+Zambia,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Guatemala,1
+Costa Rica,1
+Angola,1
+Malawi,1
+Ecuador,1
+Albania,1
+Sudan,1
+Martinique,1
+Togo,1
+Tanzania,1
+Thailand,1
+Malaysia,1
+Saudi Arabia,1
+Uganda,1
+Iceland,1
+Madagascar,1
+Aruba,1
+Guadeloupe,1
+Central African Republic,1
+New Caledonia,1
+Hong Kong,1
+Myanmar,1
+Sierra Leone,1
+Ethiopia,1
+Syria,1
+Germany,1
+Brazil,1
+Argentina,1
+Russian Federation,1
+Poland,1
+Belgium,1
+Serbia,1
+Italy,1
+East Germany,1
+Netherlands,1
+England,1
+Austria,1
+France,1
+Czech Republic,1
+Spain,1
+Wales,1
+Scotland,1
+Hungary,1
+Uruguay,1
+Chile,1
+South Africa,1
+Romania,1
+Denmark,1
+Bulgaria,1
+Portugal,1
+Iran,1
+Iraq,1
+Peru,1
+Sweden,1
+Paraguay,1
+South Korea,1
+Israel,1
+Ghana,1
+Algeria,1
+Greece,1
+Switzerland,1
+Mexico,1
+Tunisia,1
+Kuwait,1
+Cameroon,1
+Honduras,1
+Democratic Republic of Congo,1
+Egypt,1
+El Salvador,1
+Morocco,1
+Senegal,1
+North Korea,1
+Colombia,1
+Zambia,1
+Tahiti,1
+Mali,1
+Congo,1
+Nigeria,1
+Guinea,1
+Bolivia,1
+Cote d'Ivoire,1
+Libya,1
+Zimbabwe,1
+St. Vincent and the Grenadines,1
+Turkey,1
+Norway,1
+Guatemala,1
+Costa Rica,1
+Iceland,1
+Ecuador,1
+Malawi,1
+Suriname,1
+Angola,1
+Haiti,1
+Kenya,1
+Thailand,1
+Tanzania,1
+Albania,1
+Togo,1
+Uganda,1
+Sudan,1
+Madagascar,1
+Martinique,1
+Aruba,1
+Saudi Arabia,1
+Malta,1
+Central African Republic,1
+Gabon,1
+Guadeloupe,1
+Hong Kong,1
+New Caledonia,1
+Sierra Leone,1
+Ethiopia,1
+Brazil,1
+Italy,1
+England,1
+Germany,1
+Russian Federation,1
+Poland,1
+Argentina,1
+France,1
+Austria,1
+Belgium,1
+East Germany,1
+Netherlands,1
+Czech Republic,1
+Wales,1
+Serbia,1
+Spain,1
+Scotland,1
+Hungary,1
+Romania,1
+Uruguay,1
+Portugal,1
+South Africa,1
+Iraq,1
+Switzerland,1
+Peru,1
+Ghana,1
+Denmark,1
+Algeria,1
+Chile,1
+Sweden,1
+Bulgaria,1
+Paraguay,1
+Israel,1
+Cameroon,1
+Kuwait,1
+Iran,1
+Zambia,1
+Mexico,1
+Honduras,1
+Democratic Republic of Congo,1
+Greece,1
+Libya,1
+South Korea,1
+Norway,1
+Egypt,1
+Guinea,1
+Colombia,1
+Tunisia,1
+Morocco,1
+North Korea,1
+Tahiti,1
+El Salvador,1
+Senegal,1
+Congo,1
+Bolivia,1
+St. Vincent and the Grenadines,1
+Turkey,1
+Malawi,1
+Nigeria,1
+Cote d'Ivoire,1
+Guatemala,1
+Costa Rica,1
+Mali,1
+Iceland,1
+Togo,1
+Kenya,1
+Suriname,1
+Ecuador,1
+Angola,1
+Uganda,1
+Haiti,1
+Zimbabwe,1
+Albania,1
+Saudi Arabia,1
+Madagascar,1
+Martinique,1
+Malta,1
+Aruba,1
+Central African Republic,1
+Guadeloupe,1
+New Caledonia,1
+Tanzania,1
+Hong Kong,1
+Gabon,1
+Sudan,1
+Myanmar,1
+Ethiopia,1
+Russian Federation,1
+England,1
+Germany,1
+Brazil,1
+France,1
+Argentina,1
+Poland,1
+Belgium,1
+East Germany,1
+Netherlands,1
+Spain,1
+Serbia,1
+Uruguay,1
+Italy,1
+Czech Republic,1
+Sweden,1
+Scotland,1
+Portugal,1
+Romania,1
+Wales,1
+Denmark,1
+Austria,1
+South Africa,1
+Paraguay,1
+Switzerland,1
+Chile,1
+Bulgaria,1
+Hungary,1
+Mexico,1
+Ghana,1
+Iraq,1
+Israel,1
+Peru,1
+Iran,1
+Algeria,1
+South Korea,1
+Egypt,1
+Morocco,1
+Democratic Republic of Congo,1
+Greece,1
+Zambia,1
+Tunisia,1
+Honduras,1
+Kuwait,1
+Turkey,1
+Cameroon,1
+Costa Rica,1
+Norway,1
+Colombia,1
+Tahiti,1
+Congo,1
+North Korea,1
+Libya,1
+Nigeria,1
+Guatemala,1
+Cote d'Ivoire,1
+Ecuador,1
+Martinique,1
+Kenya,1
+Senegal,1
+Bolivia,1
+Zimbabwe,1
+Togo,1
+Mali,1
+Saudi Arabia,1
+St. Vincent and the Grenadines,1
+El Salvador,1
+Uganda,1
+Iceland,1
+Malawi,1
+Madagascar,1
+Angola,1
+Suriname,1
+Haiti,1
+Sudan,1
+Thailand,1
+Guinea,1
+Albania,1
+Aruba,1
+Gambia,1
+Central African Republic,1
+Tanzania,1
+Malta,1
+Guadeloupe,1
+Gabon,1
+Malaysia,1
+New Caledonia,1
+France,1
+Russian Federation,1
+Germany,1
+England,1
+Brazil,1
+Argentina,1
+Uruguay,1
+Denmark,1
+Scotland,1
+Poland,1
+Italy,1
+Spain,1
+East Germany,1
+Czech Republic,1
+Netherlands,1
+Portugal,1
+Sweden,1
+Hungary,1
+Belgium,1
+Serbia,1
+Austria,1
+Mexico,1
+South Africa,1
+Paraguay,1
+Chile,1
+Wales,1
+Romania,1
+Switzerland,1
+Bulgaria,1
+Algeria,1
+Israel,1
+Morocco,1
+Norway,1
+Iran,1
+Egypt,1
+Ghana,1
+Peru,1
+Cameroon,1
+Zambia,1
+Honduras,1
+Saudi Arabia,1
+Iraq,1
+Greece,1
+Democratic Republic of Congo,1
+Tunisia,1
+Cote d'Ivoire,1
+Colombia,1
+Tahiti,1
+North Korea,1
+Nigeria,1
+Malawi,1
+Libya,1
+Guatemala,1
+Congo,1
+South Korea,1
+Turkey,1
+Ecuador,1
+Kuwait,1
+Martinique,1
+Bolivia,1
+Costa Rica,1
+Qatar,1
+Togo,1
+Senegal,1
+Iceland,1
+El Salvador,1
+Albania,1
+Angola,1
+Mali,1
+Madagascar,1
+Uganda,1
+Suriname,1
+St. Vincent and the Grenadines,1
+Zimbabwe,1
+Sudan,1
+Haiti,1
+Kenya,1
+Aruba,1
+Tanzania,1
+Guinea,1
+Malaysia,1
+Guadeloupe,1
+Ethiopia,1
+Malta,1
+Gabon,1
+Central African Republic,1
+Russian Federation,1
+France,1
+England,1
+Denmark,1
+Brazil,1
+Germany,1
+East Germany,1
+Italy,1
+Argentina,1
+Netherlands,1
+Sweden,1
+Hungary,1
+Scotland,1
+Spain,1
+Uruguay,1
+Belgium,1
+Mexico,1
+Czech Republic,1
+Portugal,1
+Bulgaria,1
+Poland,1
+Serbia,1
+Romania,1
+Chile,1
+Wales,1
+South Africa,1
+Paraguay,1
+Austria,1
+Switzerland,1
+Iraq,1
+Morocco,1
+Peru,1
+Norway,1
+Colombia,1
+Algeria,1
+Israel,1
+Iran,1
+South Korea,1
+Egypt,1
+Honduras,1
+Libya,1
+Cote d'Ivoire,1
+Greece,1
+Tahiti,1
+Zambia,1
+Tunisia,1
+Democratic Republic of Congo,1
+Senegal,1
+Nigeria,1
+Saudi Arabia,1
+Malawi,1
+Cameroon,1
+Guatemala,1
+Ghana,1
+Costa Rica,1
+Martinique,1
+North Korea,1
+Zimbabwe,1
+Ecuador,1
+El Salvador,1
+Qatar,1
+Turkey,1
+Bolivia,1
+Congo,1
+Togo,1
+Kuwait,1
+Angola,1
+Iceland,1
+Uganda,1
+Albania,1
+Mali,1
+Gabon,1
+St. Vincent and the Grenadines,1
+Suriname,1
+Madagascar,1
+Sudan,1
+Aruba,1
+Guadeloupe,1
+Kenya,1
+Tanzania,1
+Syria,1
+Guinea,1
+Malta,1
+Ethiopia,1
+Mozambique,1
+Bahrain,1
+Argentina,1
+Brazil,1
+Russian Federation,1
+Spain,1
+England,1
+Germany,1
+France,1
+Denmark,1
+Sweden,1
+Italy,1
+Netherlands,1
+Mexico,1
+Czech Republic,1
+East Germany,1
+Romania,1
+Serbia,1
+Scotland,1
+Belgium,1
+Paraguay,1
+Wales,1
+Chile,1
+South Africa,1
+Poland,1
+Hungary,1
+Bulgaria,1
+Uruguay,1
+Austria,1
+Portugal,1
+Morocco,1
+Switzerland,1
+Norway,1
+Cameroon,1
+Colombia,1
+Greece,1
+Iran,1
+South Korea,1
+Cote d'Ivoire,1
+Peru,1
+Egypt,1
+Senegal,1
+Kuwait,1
+Honduras,1
+Algeria,1
+Libya,1
+Democratic Republic of Congo,1
+Israel,1
+Tahiti,1
+Ghana,1
+Zambia,1
+Tunisia,1
+North Korea,1
+Guatemala,1
+Iraq,1
+Nigeria,1
+Costa Rica,1
+Saudi Arabia,1
+Martinique,1
+Zimbabwe,1
+Ecuador,1
+El Salvador,1
+Malawi,1
+Turkey,1
+Congo,1
+Bolivia,1
+Iceland,1
+Uganda,1
+Angola,1
+Gabon,1
+Togo,1
+Albania,1
+Qatar,1
+Mali,1
+Suriname,1
+Madagascar,1
+St. Vincent and the Grenadines,1
+Sudan,1
+Aruba,1
+Guadeloupe,1
+Sierra Leone,1
+Ethiopia,1
+Guinea,1
+Kenya,1
+Syria,1
+Malta,1
+Tanzania,1
+Haiti,1
+England,1
+Russian Federation,1
+Germany,1
+Spain,1
+Brazil,1
+Italy,1
+Netherlands,1
+Denmark,1
+Argentina,1
+Sweden,1
+Mexico,1
+East Germany,1
+France,1
+Romania,1
+Chile,1
+Uruguay,1
+Czech Republic,1
+Serbia,1
+Scotland,1
+Wales,1
+Hungary,1
+South Africa,1
+Belgium,1
+Bulgaria,1
+Colombia,1
+Austria,1
+Portugal,1
+Poland,1
+Paraguay,1
+Switzerland,1
+Morocco,1
+Norway,1
+Egypt,1
+Cameroon,1
+Greece,1
+South Korea,1
+Peru,1
+Cote d'Ivoire,1
+Iran,1
+Algeria,1
+Ghana,1
+Iraq,1
+Kuwait,1
+Honduras,1
+Libya,1
+Guatemala,1
+Democratic Republic of Congo,1
+Zambia,1
+Malawi,1
+North Korea,1
+Israel,1
+Costa Rica,1
+Iceland,1
+Nigeria,1
+Tahiti,1
+Uganda,1
+Martinique,1
+Turkey,1
+Ecuador,1
+Saudi Arabia,1
+Zimbabwe,1
+El Salvador,1
+Senegal,1
+Tunisia,1
+Angola,1
+Bolivia,1
+Sierra Leone,1
+Sudan,1
+Madagascar,1
+Albania,1
+Congo,1
+Suriname,1
+Qatar,1
+Ethiopia,1
+Togo,1
+Guadeloupe,1
+Gabon,1
+Aruba,1
+Syria,1
+Guinea,1
+Kenya,1
+St. Vincent and the Grenadines,1
+New Caledonia,1
+Mali,1
+Malta,1
+Liberia,1
+Hong Kong,1
+Netherlands,1
+Brazil,1
+Russian Federation,1
+Germany,1
+Italy,1
+Sweden,1
+Romania,1
+Spain,1
+Serbia,1
+England,1
+Mexico,1
+Uruguay,1
+Argentina,1
+France,1
+Czech Republic,1
+Denmark,1
+Colombia,1
+Paraguay,1
+Belgium,1
+Poland,1
+Scotland,1
+Chile,1
+South Africa,1
+Wales,1
+Bulgaria,1
+East Germany,1
+Portugal,1
+Hungary,1
+Switzerland,1
+Austria,1
+South Korea,1
+Greece,1
+Iraq,1
+Cameroon,1
+Egypt,1
+Norway,1
+Morocco,1
+Cote d'Ivoire,1
+Zambia,1
+Algeria,1
+Peru,1
+Israel,1
+Iran,1
+Saudi Arabia,1
+Malawi,1
+Turkey,1
+Democratic Republic of Congo,1
+Libya,1
+Ecuador,1
+Honduras,1
+Nigeria,1
+Costa Rica,1
+North Korea,1
+Iceland,1
+Senegal,1
+Tahiti,1
+Guatemala,1
+Angola,1
+Zimbabwe,1
+Kuwait,1
+Bolivia,1
+El Salvador,1
+Tunisia,1
+Uganda,1
+Martinique,1
+Syria,1
+Ghana,1
+Guinea,1
+Gabon,1
+Congo,1
+Qatar,1
+Ethiopia,1
+Madagascar,1
+Sudan,1
+Albania,1
+Malta,1
+Sierra Leone,1
+Fiji,1
+Suriname,1
+Burkina Faso,1
+Aruba,1
+Mali,1
+Guadeloupe,1
+St. Vincent and the Grenadines,1
+Togo,1
+Kenya,1
+Netherlands,1
+Brazil,1
+Germany,1
+Italy,1
+Sweden,1
+Russian Federation,1
+England,1
+Spain,1
+Serbia,1
+Mexico,1
+Denmark,1
+Romania,1
+Czech Republic,1
+Uruguay,1
+France,1
+Belgium,1
+Colombia,1
+Argentina,1
+Poland,1
+South Africa,1
+Chile,1
+Portugal,1
+Scotland,1
+South Korea,1
+Paraguay,1
+East Germany,1
+Hungary,1
+Wales,1
+Austria,1
+Bulgaria,1
+Egypt,1
+Cameroon,1
+Cote d'Ivoire,1
+Switzerland,1
+Algeria,1
+Norway,1
+Greece,1
+Turkey,1
+Iraq,1
+Israel,1
+Ecuador,1
+Costa Rica,1
+Nigeria,1
+Morocco,1
+Saudi Arabia,1
+Iran,1
+Democratic Republic of Congo,1
+Honduras,1
+Bolivia,1
+Libya,1
+Senegal,1
+Iceland,1
+Tahiti,1
+Uganda,1
+North Korea,1
+Peru,1
+Kuwait,1
+Zambia,1
+Qatar,1
+Syria,1
+Ghana,1
+Tunisia,1
+Zimbabwe,1
+Guatemala,1
+Ethiopia,1
+Malawi,1
+Mali,1
+Angola,1
+Gabon,1
+Kenya,1
+Guadeloupe,1
+Madagascar,1
+Martinique,1
+Liberia,1
+Guinea,1
+Fiji,1
+Sudan,1
+El Salvador,1
+Albania,1
+Congo,1
+Suriname,1
+Burkina Faso,1
+Togo,1
+Malta,1
+Bahrain,1
+St. Vincent and the Grenadines,1
+Sierra Leone,1
+Germany,1
+Italy,1
+England,1
+Serbia,1
+Brazil,1
+Netherlands,1
+Spain,1
+France,1
+Mexico,1
+Russian Federation,1
+Croatia,1
+Czech Republic,1
+Argentina,1
+Denmark,1
+Uruguay,1
+Sweden,1
+Belgium,1
+Romania,1
+Portugal,1
+Poland,1
+Chile,1
+Algeria,1
+South Africa,1
+Scotland,1
+Colombia,1
+Wales,1
+Hungary,1
+Bulgaria,1
+Paraguay,1
+South Korea,1
+Switzerland,1
+Greece,1
+Norway,1
+Austria,1
+Costa Rica,1
+Cameroon,1
+Nigeria,1
+Egypt,1
+Iraq,1
+Cote d'Ivoire,1
+Ecuador,1
+Iran,1
+Israel,1
+Georgia,1
+Turkey,1
+Morocco,1
+Saudi Arabia,1
+Zambia,1
+Senegal,1
+Honduras,1
+Bolivia,1
+Libya,1
+Iceland,1
+Democratic Republic of Congo,1
+Tahiti,1
+Uganda,1
+Ghana,1
+Peru,1
+North Korea,1
+Congo,1
+Tunisia,1
+Kuwait,1
+Syria,1
+Qatar,1
+Madagascar,1
+Guatemala,1
+Mali,1
+Martinique,1
+Sudan,1
+Angola,1
+Burkina Faso,1
+El Salvador,1
+Ethiopia,1
+Zimbabwe,1
+Liberia,1
+Guinea,1
+Sierra Leone,1
+Gabon,1
+Fiji,1
+Malawi,1
+Albania,1
+Bahrain,1
+Kenya,1
+Suriname,1
+Guadeloupe,1
+Malta,1
+Bermuda,1
+Germany,1
+France,1
+England,1
+Argentina,1
+Italy,1
+Netherlands,1
+Brazil,1
+Serbia,1
+Russian Federation,1
+Croatia,1
+Denmark,1
+Czech Republic,1
+Uruguay,1
+Mexico,1
+Sweden,1
+Spain,1
+Belgium,1
+Romania,1
+Wales,1
+Portugal,1
+Poland,1
+South Africa,1
+Switzerland,1
+Chile,1
+Colombia,1
+Scotland,1
+Algeria,1
+Bulgaria,1
+Norway,1
+Hungary,1
+Paraguay,1
+South Korea,1
+Egypt,1
+Cote d'Ivoire,1
+Cameroon,1
+Greece,1
+Honduras,1
+Ecuador,1
+Iraq,1
+Iran,1
+Zambia,1
+Georgia,1
+Israel,1
+Austria,1
+Morocco,1
+Nigeria,1
+Saudi Arabia,1
+Slovenia,1
+Costa Rica,1
+Iceland,1
+Senegal,1
+Turkey,1
+Bolivia,1
+Libya,1
+Peru,1
+Tunisia,1
+Democratic Republic of Congo,1
+Ghana,1
+North Korea,1
+Congo,1
+Uganda,1
+Moldova,1
+Kuwait,1
+Tahiti,1
+Syria,1
+Qatar,1
+Kenya,1
+Fiji,1
+Madagascar,1
+Guatemala,1
+Albania,1
+Zimbabwe,1
+Burkina Faso,1
+Martinique,1
+Ethiopia,1
+Gabon,1
+Sierra Leone,1
+El Salvador,1
+Angola,1
+Liberia,1
+Malta,1
+Mali,1
+Suriname,1
+Guinea,1
+Bahrain,1
+Sudan,1
+Bermuda,1
+Argentina,1
+Brazil,1
+Germany,1
+Italy,1
+Netherlands,1
+England,1
+Serbia,1
+Denmark,1
+Sweden,1
+France,1
+Russian Federation,1
+Belgium,1
+Croatia,1
+Uruguay,1
+Spain,1
+Romania,1
+Czech Republic,1
+Switzerland,1
+Poland,1
+Bulgaria,1
+Portugal,1
+Scotland,1
+Mexico,1
+Colombia,1
+Chile,1
+Wales,1
+Norway,1
+Paraguay,1
+Hungary,1
+Honduras,1
+Nigeria,1
+Greece,1
+Slovakia,1
+South Korea,1
+Uzbekistan,1
+Cameroon,1
+South Africa,1
+Iraq,1
+Cote d'Ivoire,1
+Ecuador,1
+Austria,1
+Ghana,1
+Egypt,1
+Algeria,1
+Iran,1
+Saudi Arabia,1
+Zambia,1
+Kazakhstan,1
+Costa Rica,1
+Georgia,1
+Morocco,1
+Slovenia,1
+Ukraine,1
+Turkey,1
+Israel,1
+Iceland,1
+Democratic Republic of Congo,1
+Bolivia,1
+Tunisia,1
+Peru,1
+El Salvador,1
+Azerbaijan,1
+Senegal,1
+Zimbabwe,1
+Sierra Leone,1
+Turkmenistan,1
+Uganda,1
+Qatar,1
+Libya,1
+Madagascar,1
+Moldova,1
+Gabon,1
+Kuwait,1
+North Korea,1
+Guatemala,1
+Mali,1
+Fiji,1
+Tahiti,1
+Congo,1
+Martinique,1
+Guinea,1
+Malawi,1
+Albania,1
+Burkina Faso,1
+Syria,1
+Tajikistan,1
+Germany,1
+Italy,1
+Netherlands,1
+Brazil,1
+Colombia,1
+Serbia,1
+Denmark,1
+Argentina,1
+Spain,1
+Mexico,1
+France,1
+Sweden,1
+England,1
+Croatia,1
+Norway,1
+Switzerland,1
+Czech Republic,1
+Russian Federation,1
+Portugal,1
+Romania,1
+Belgium,1
+Uruguay,1
+Bulgaria,1
+Wales,1
+Scotland,1
+Chile,1
+Greece,1
+Bolivia,1
+Nigeria,1
+Paraguay,1
+Poland,1
+Saudi Arabia,1
+Morocco,1
+Slovakia,1
+Egypt,1
+South Korea,1
+Uzbekistan,1
+Iraq,1
+Zambia,1
+Cameroon,1
+Austria,1
+Tunisia,1
+Ecuador,1
+Cote d'Ivoire,1
+Algeria,1
+Hungary,1
+Macedonia,1
+Bosnia and Herzegovina,1
+Ghana,1
+South Africa,1
+Costa Rica,1
+Kazakhstan,1
+Ukraine,1
+Georgia,1
+Turkey,1
+Iceland,1
+Iran,1
+Israel,1
+Slovenia,1
+Zimbabwe,1
+Azerbaijan,1
+Honduras,1
+Peru,1
+Tahiti,1
+Kuwait,1
+Sierra Leone,1
+Madagascar,1
+Turkmenistan,1
+Democratic Republic of Congo,1
+Libya,1
+North Korea,1
+El Salvador,1
+Kenya,1
+Moldova,1
+Uganda,1
+Martinique,1
+Qatar,1
+Guatemala,1
+Burkina Faso,1
+Senegal,1
+Gabon,1
+Malawi,1
+Syria,1
+Guinea,1
+Mali,1
+Brazil,1
+Germany,1
+Spain,1
+Italy,1
+Netherlands,1
+Sweden,1
+Serbia,1
+Croatia,1
+France,1
+Denmark,1
+Romania,1
+Colombia,1
+England,1
+Argentina,1
+Norway,1
+Mexico,1
+Switzerland,1
+Czech Republic,1
+Portugal,1
+Bulgaria,1
+Russian Federation,1
+Uruguay,1
+Nigeria,1
+Uzbekistan,1
+Belgium,1
+Scotland,1
+Chile,1
+Poland,1
+Paraguay,1
+Bolivia,1
+Slovakia,1
+South Africa,1
+Zambia,1
+Cote d'Ivoire,1
+Iraq,1
+Ghana,1
+Greece,1
+Wales,1
+Saudi Arabia,1
+Costa Rica,1
+Ecuador,1
+Macedonia,1
+South Korea,1
+Egypt,1
+Bosnia and Herzegovina,1
+Georgia,1
+Israel,1
+Turkey,1
+Morocco,1
+Austria,1
+Kazakhstan,1
+Hungary,1
+Algeria,1
+Slovenia,1
+Tunisia,1
+Cameroon,1
+Iceland,1
+Peru,1
+Ukraine,1
+Iran,1
+Moldova,1
+Honduras,1
+Zimbabwe,1
+Tahiti,1
+El Salvador,1
+Turkmenistan,1
+Libya,1
+North Korea,1
+Kuwait,1
+Madagascar,1
+Martinique,1
+Azerbaijan,1
+Uganda,1
+Guatemala,1
+Democratic Republic of Congo,1
+Sierra Leone,1
+Malawi,1
+Mali,1
+Burkina Faso,1
+Gabon,1
+Tanzania,1
+Syria,1
+Senegal,1
+Qatar,1
+Brazil,1
+Germany,1
+Italy,1
+Spain,1
+Denmark,1
+France,1
+Serbia,1
+Netherlands,1
+Russian Federation,1
+Czech Republic,1
+Romania,1
+Croatia,1
+England,1
+Portugal,1
+Colombia,1
+Sweden,1
+Argentina,1
+Uruguay,1
+Bulgaria,1
+Switzerland,1
+Nigeria,1
+Norway,1
+Scotland,1
+Mexico,1
+Belgium,1
+Paraguay,1
+Turkey,1
+Uzbekistan,1
+Poland,1
+South Africa,1
+Slovakia,1
+Chile,1
+Ecuador,1
+Bolivia,1
+Ghana,1
+Cote d'Ivoire,1
+Austria,1
+Iraq,1
+Georgia,1
+Israel,1
+Egypt,1
+South Korea,1
+Wales,1
+Zambia,1
+Bosnia and Herzegovina,1
+Greece,1
+Honduras,1
+Hungary,1
+Saudi Arabia,1
+Slovenia,1
+Morocco,1
+Ukraine,1
+Algeria,1
+Kazakhstan,1
+Peru,1
+Tunisia,1
+Iceland,1
+Tahiti,1
+Costa Rica,1
+Cameroon,1
+Iran,1
+Democratic Republic of Congo,1
+Macedonia,1
+Sierra Leone,1
+El Salvador,1
+Turkmenistan,1
+Libya,1
+North Korea,1
+Zimbabwe,1
+Kuwait,1
+Madagascar,1
+Gabon,1
+Martinique,1
+Moldova,1
+Senegal,1
+Belarus,1
+Guatemala,1
+Azerbaijan,1
+Albania,1
+Burkina Faso,1
+Kenya,1
+Syria,1
+Bahrain,1
+Germany,1
+Brazil,1
+Spain,1
+France,1
+Italy,1
+Denmark,1
+Netherlands,1
+England,1
+Serbia,1
+Czech Republic,1
+Portugal,1
+Russian Federation,1
+Croatia,1
+Colombia,1
+Norway,1
+Romania,1
+Bulgaria,1
+Sweden,1
+Scotland,1
+Paraguay,1
+Argentina,1
+Mexico,1
+Uruguay,1
+South Africa,1
+Nigeria,1
+Belgium,1
+Chile,1
+Austria,1
+Switzerland,1
+Turkey,1
+Ecuador,1
+Slovakia,1
+Iran,1
+Morocco,1
+Greece,1
+Bolivia,1
+Poland,1
+Iraq,1
+Ukraine,1
+Tunisia,1
+Saudi Arabia,1
+Kuwait,1
+Zambia,1
+Egypt,1
+Israel,1
+Hungary,1
+Algeria,1
+Bosnia and Herzegovina,1
+Peru,1
+Wales,1
+Uzbekistan,1
+Ghana,1
+Georgia,1
+Cameroon,1
+South Korea,1
+Costa Rica,1
+Honduras,1
+Slovenia,1
+Macedonia,1
+Zimbabwe,1
+Iceland,1
+Cote d'Ivoire,1
+El Salvador,1
+Gabon,1
+Tahiti,1
+Qatar,1
+Guatemala,1
+Democratic Republic of Congo,1
+Libya,1
+Angola,1
+North Korea,1
+Martinique,1
+Syria,1
+Kazakhstan,1
+Madagascar,1
+Senegal,1
+Moldova,1
+Malawi,1
+Tajikistan,1
+Congo,1
+Azerbaijan,1
+Turkmenistan,1
+Albania,1
+Brazil,1
+Germany,1
+Spain,1
+France,1
+England,1
+Italy,1
+Serbia,1
+Netherlands,1
+Denmark,1
+Portugal,1
+Romania,1
+Russian Federation,1
+Czech Republic,1
+Croatia,1
+Norway,1
+Argentina,1
+Sweden,1
+Bulgaria,1
+Belgium,1
+Scotland,1
+Mexico,1
+Colombia,1
+South Korea,1
+Ecuador,1
+Uruguay,1
+Austria,1
+Chile,1
+Paraguay,1
+Morocco,1
+Greece,1
+Slovakia,1
+Peru,1
+Turkey,1
+Nigeria,1
+Bolivia,1
+Iran,1
+South Africa,1
+Ukraine,1
+Switzerland,1
+Poland,1
+Tunisia,1
+Georgia,1
+Saudi Arabia,1
+Zambia,1
+Bosnia and Herzegovina,1
+Costa Rica,1
+Kuwait,1
+Israel,1
+Egypt,1
+Iraq,1
+Hungary,1
+Wales,1
+Uzbekistan,1
+Algeria,1
+Cameroon,1
+Guatemala,1
+Honduras,1
+Qatar,1
+Angola,1
+Cote d'Ivoire,1
+Slovenia,1
+Kazakhstan,1
+El Salvador,1
+Macedonia,1
+North Korea,1
+Tajikistan,1
+Martinique,1
+Iceland,1
+Kenya,1
+Ghana,1
+Guinea,1
+Congo,1
+Madagascar,1
+Libya,1
+Democratic Republic of Congo,1
+Mali,1
+Syria,1
+Thailand,1
+Gabon,1
+Sierra Leone,1
+Tahiti,1
+Senegal,1
+Zimbabwe,1
+Jordan,1
+France,1
+Brazil,1
+Italy,1
+Netherlands,1
+Spain,1
+Germany,1
+Croatia,1
+England,1
+Yugoslavia,1
+Argentina,1
+Portugal,1
+Czechia,1
+Romania,1
+Sweden,1
+Mexico,1
+Norway,1
+Denmark,1
+Belgium,1
+Morocco,1
+Paraguay,1
+Russia,1
+Poland,1
+Uruguay,1
+Chile,1
+Ecuador,1
+Iran,1
+Colombia,1
+Austria,1
+Greece,1
+Peru,1
+Scotland,1
+Saudi Arabia,1
+Ukraine,1
+Nigeria,1
+Israel,1
+Bolivia,1
+South Korea,1
+Slovakia,1
+Egypt,1
+Bulgaria,1
+South Africa,1
+Kuwait,1
+Hungary,1
+Switzerland,1
+Turkey,1
+Tunisia,1
+Costa Rica,1
+Ivory Coast,1
+Wales,1
+Georgia,1
+Iraq,1
+Finland,1
+Guatemala,1
+Macedonia,1
+Cameroon,1
+Bosnia and Herzegovina,1
+Ghana,1
+Uzbekistan,1
+Iceland,1
+Slovenia,1
+Qatar,1
+Honduras,1
+Algeria,1
+Congo,1
+Cyprus,1
+Lithuania,1
+Angola,1
+Trinidad and Tobago,1
+Congo,1
+Kenya,1
+Madagascar,1
+North Korea,1
+Syria,1
+Gabon,1
+Zimbabwe,1
+Guinea,1
+Northern Cyprus,1
+Latvia,1
+Albania,1
+Turkmenistan,1
+Cuba,1
+Sierra Leone,1
